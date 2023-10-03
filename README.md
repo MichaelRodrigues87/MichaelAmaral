@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil do Michael Rodrigues87 😁
 
  <div>
    <a href="https://github.com/MichaelAmaral">
@@ -13,8 +13,6 @@
 </div>
  
 <br>
- 
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
   <a href="https://Youtube Michael Rodrigues="_blank<imgsrc="https://img.shields.io/badge/YouTubeFF0000style=forthebadge&logo=youtube&logoColor=white"target="_blank</a>
